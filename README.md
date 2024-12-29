@@ -83,4 +83,4 @@
 
 教程原文请关注我的微信公众号【卧梅又闻花】，
 
-查阅本项目完整教程：[《2025新春版：轻松搞定Vite6+React19全家桶》](https://mp.weixin.qq.com/s/FJ_2p7WEvWHGF1zNJZxn0Q)
+查阅本项目完整教程：[《2025新春版：轻松搞定Vite6+React19全家桶》](https://mp.weixin.qq.com/s/1n_AGmKpSwYsMkTpgW6Bsg)
